@@ -22,7 +22,7 @@
     "LICENSE.md"
   ],
   "peerDependencies": {
-    "@tiptap-pro/extension-node-range": "^2.7.7",
+    "@tiptap-pro/extension-node-range": "git+https://github.com/sriharshamadamanchi/extension-node-range.git#v0.1.0",
     "@tiptap/core": "^2.0.0",
     "@tiptap/extension-collaboration": "^2.0.0",
     "@tiptap/pm": "^2.0.0",
@@ -32,7 +32,7 @@
     "tippy.js": "^6.3.7"
   },
   "devDependencies": {
-    "@tiptap-pro/extension-node-range": "^2.17.3",
+    "@tiptap-pro/extension-node-range": "git+https://github.com/sriharshamadamanchi/extension-node-range.git#v0.1.0",
     "@tiptap/core": "^2.0.0",
     "@tiptap/extension-collaboration": "^2.0.0",
     "@tiptap/pm": "^2.0.0",
